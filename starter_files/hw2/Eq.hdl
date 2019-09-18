@@ -1,0 +1,14 @@
+
+/**
+ * Eq gate: 
+ * out = 1 if (a == b)
+ *       0 otherwise
+ */
+
+CHIP Eq {
+    IN a, b;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+}

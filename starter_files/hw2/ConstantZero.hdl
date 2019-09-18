@@ -1,0 +1,12 @@
+
+/**
+ * Constant zero gate: given input a, output is always 0
+ */
+
+CHIP ConstantZero {
+    IN a;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+}
