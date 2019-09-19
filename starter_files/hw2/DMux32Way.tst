@@ -1,5 +1,6 @@
 load DMux32Way.hdl,
 output-file DMux32Way.out,
+compare-to DMux32Way.cmp,
 output-list in%B1.1.1 sel%B1.5.1 o0%B1.1.1 o2%B1.1.1 o4%B1.1.1 o6%B1.1.1  o8%B1.1.1 o10%B1.1.1 o12%B1.1.1 o14%B1.1.1 o16%B1.1.1 o18%B1.1.1  o20%B1.1.1  o22%B1.1.1  o24%B1.1.1  o26%B1.1.1  o28%B1.1.1  o30%B1.1.1;
 
 
