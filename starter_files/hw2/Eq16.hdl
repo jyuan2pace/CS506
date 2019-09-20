@@ -1,0 +1,14 @@
+
+/**
+ * Eq16 gate:
+ * out = 1 if (a[0] == b[0] and a[1] == b[1] and ... and a[15] == b[15])
+ *       0 otherwise
+ */
+
+CHIP Eq16 {
+    IN a[16], b[16];
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+}

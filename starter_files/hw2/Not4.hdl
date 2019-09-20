@@ -1,0 +1,13 @@
+/**
+ * Not gate:
+ * out[3..0] = not in[3..0]
+ * flip 4 bits
+ */
+
+CHIP Not4 {
+    IN in[4];
+    OUT out[4];
+
+    PARTS:
+    // Put your code here:
+}

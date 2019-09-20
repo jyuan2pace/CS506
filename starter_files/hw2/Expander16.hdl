@@ -1,0 +1,15 @@
+
+/**
+ * Expander16 gate:
+ * out = B1111111111111111 if in = 1
+ *       B0000000000000000 otherwise
+ */
+
+CHIP Expander16 {
+    IN in;
+    OUT out[16];
+
+    PARTS:
+    // Put your code here:
+
+}

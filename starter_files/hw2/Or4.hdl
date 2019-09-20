@@ -1,0 +1,11 @@
+/**
+ * 4-bit bitwise Or:
+ * for i = 0..3 out[i] = (a[i] or b[i])
+ */
+
+CHIP Or4 {
+    IN a[4], b[4];
+    OUT out[4];
+    
+    PARTS:
+}
