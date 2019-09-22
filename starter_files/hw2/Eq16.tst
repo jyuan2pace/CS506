@@ -29,3 +29,83 @@ set b %B0101010101010101,
 eval,
 output;
 
+set a %B1101010101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0001010101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0111010101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0100010101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101110101010101,
+eval,
+output;
+
+set a %B0101000101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101011101010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010001010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010111010101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101010100010101,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101010101110101,
+eval,
+output;
+
+set a %B0101010101000101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010101011101,
+set b %B0101010101010101,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101010101010001,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101010101010111,
+eval,
+output;
+
+set a %B0101010101010101,
+set b %B0101010101010100,
+eval,
+output;
+
