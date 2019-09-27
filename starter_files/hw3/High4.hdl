@@ -1,0 +1,6 @@
+/*Please read HW3 instruction for requirements of High4*/
+CHIP High4{
+    IN in[4];
+    OUT out[2];
+    PARTS: //put your implementation here
+}
