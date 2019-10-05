@@ -1,5 +1,5 @@
 /**
- * Adds two 16-bit values with a carry-in.
+ * Adds two 16-bit values, a, b and a carry-in, c together.
  * The most significant carry bit is ignored.
  */
 
