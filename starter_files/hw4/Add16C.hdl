@@ -1,0 +1,12 @@
+/**
+ * Adds two 16-bit values with a carry-in.
+ * The most significant carry bit is ignored.
+ */
+
+CHIP Add16C {
+    IN a[16], b[16], c;
+    OUT out[16];
+
+    PARTS:
+   // Put you code here:
+}

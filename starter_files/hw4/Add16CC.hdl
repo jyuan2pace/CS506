@@ -1,0 +1,14 @@
+/**
+ * Adds two 16-bit values with a carry-in, and also outputs carry-out.
+ * The most significant carry bit is ignored.
+ * cout is the carry from the highest bit, and is not discarded
+ */
+
+CHIP Add16CC {
+    IN a[16], b[16], cin;
+    OUT out[16], cout; 
+
+
+    PARTS:
+   // Put you code here:
+}
