@@ -1,5 +1,5 @@
-/* if sub == 1 then out = a + b
-   else  out = a - b
+/* if sub == 1 then out = a - b
+   else  out = a + b
 
 */
 
