@@ -1,0 +1,7 @@
+CHIP PC2 {
+   IN din[16], op[2];
+   OUT dout[16];
+
+PARTS:
+//implement two-way stateless counter with overflow and underflow control
+}
