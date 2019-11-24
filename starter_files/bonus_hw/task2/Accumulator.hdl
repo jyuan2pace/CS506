@@ -1,0 +1,22 @@
+/*  loadS and S sets init value of register that stores S(i)
+    loadX and X sets init value of register that stores X(i)
+
+    if(loadS == true)
+        S(i+1) = S 
+    else 
+        S(i+1) = S(i) + X(i)
+
+    if(loadX == true)
+        X(i+1) = X
+    else 
+	X(i+1) = X(i) + 1
+
+    Test file has set both inits to be zero
+*/
+
+CHIP Accumulator {
+    IN X[8], S[8], loadS, loadX;
+    OUT SOUT[8], XOUT[8];
+
+    PARTS:
+}
