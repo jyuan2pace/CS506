@@ -1,0 +1,9 @@
+/*
+out=in*2
+*/
+CHIP LShift {
+    IN in[16];
+    OUT out[16];
+
+    PARTS:
+}

@@ -1,0 +1,8 @@
+/* out = in/2
+*/
+CHIP RShift {
+    IN in[16];
+    OUT out[16];
+
+    PARTS:
+}
